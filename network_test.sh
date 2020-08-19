@@ -10,3 +10,4 @@ if [ ${ping} -eq "1" ] || [ ${ping} -eq "2" ]
 		printf '%s %s\n' "$(date)" "Network Up"
 fi
  
+#test
